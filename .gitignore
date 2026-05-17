@@ -1,0 +1,26 @@
+# Entorno virtual
+.venv/
+
+# Variables de entorno
+.env
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Archivos VS Code
+.vscode/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Streamlit cache
+.streamlit/
+
+# Pytest
+.pytest_cache/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

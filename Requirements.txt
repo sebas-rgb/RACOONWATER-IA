@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+paho-mqtt
+psycopg2-binary
+python-dotenv
+pydantic
+streamlit
+requests
+pandas
+plotly
